@@ -11,9 +11,5 @@
 * Numpy
 * Scikit-learn
 * NLTK
-<br>
-* Python
-* Numpy
-* Scikit-learn
-* NLTK
+
 
