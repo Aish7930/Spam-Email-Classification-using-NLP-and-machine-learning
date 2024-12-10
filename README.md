@@ -15,4 +15,8 @@
 ## <br>**➲Dataset**
 The dataset used for this project is the SMS Spam Collection Dataset, which contains a collection of SMS messages labeled as "spam" or "ham" (non-spam)
 
+## <br>**➲Deployment**
+The web application can be run locally or deployed on platforms Heroku but I had used Streamlit.
+
+
 
