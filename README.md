@@ -12,4 +12,7 @@
 * Scikit-learn
 * NLTK
 
+## <br>**➲Dataset**
+The dataset used for this project is the SMS Spam Collection Dataset, which contains a collection of SMS messages labeled as "spam" or "ham" (non-spam)
+
 
